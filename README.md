@@ -47,5 +47,5 @@ The directory hierarchy should be like this:
 
 To train on fold 1,2,3 and validate on fold 0:  
 ```bash
-python main.py --expeiment-index 0
+python main.py --experiment-index 0
 ```
